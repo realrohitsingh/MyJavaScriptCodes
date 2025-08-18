@@ -50,11 +50,11 @@ class User {
   }
 }
 let user1 = new User(
-  "John Doe",
+  "Rohit Singh",
   12345,
   "9876543210",
-  "johndoe1@gmail.com",
-  "password123"
+  "rohitsingh123@gmail.com",
+  "12345@rohit"
 );
 console.log(user1);
 
