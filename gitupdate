@@ -1,0 +1,6 @@
+// git add .
+// git commit -m "my changes"
+// git push -u origin main
+
+// // if needed
+// git remote add origin <repository-url>
